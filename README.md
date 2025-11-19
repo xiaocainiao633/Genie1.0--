@@ -130,7 +130,8 @@ graph TD
 - [ agent 使用方式详解](./agent/USAGE_GUIDE.md)
 - [ agent 整体架构分析](./agent/ARCHITECTURE.md)
 - [ 项目快速开始 ](./agent/QUICK_START.md)
-- [ AutoGo API 配合机制与自动化测试指南 ](./AutoGo API 配合机制与自动化测试指南.md)
-- [ RAG 系统概述 ](./RAG_SYSTEM_OVERREVIEW.md)
+- [ AutoGo API 配合机制与自动化测试指南 ](https://github.com/xiaocainiao633/Genie1.0--/blob/main/AutoGo%20API%20%E9%85%8D%E5%90%88%E6%9C%BA%E5%88%B6%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%8C%87%E5%8D%97.md)
+- [ RAG 系统概述 ](https://github.com/xiaocainiao633/Genie1.0--/blob/main/RAG_SYSTEM_OVERVIEW.md)
 
-![alt text](image.png)
+<img width="413" height="263" alt="image" src="https://github.com/user-attachments/assets/9535c239-3d52-4cca-b157-d9c46ae76ca2" />
+
