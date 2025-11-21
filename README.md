@@ -4,7 +4,9 @@
 
 灵感来源于：Genie,一个安卓自动化测试项目，原项目地址：[Genie](https://github.com/functional-fuzzing-android-apps/home)
 
-本仓库中的 [Genie0.0.md](./Genie0.0.md) 文件中包含了对原项目整体代码的分析，原项目具体部署方式见该文档即可.
+本仓库中的 [Genie0.0.md](./Genie0.0.md) 文件中包含了对原项目部分代码的分析，原项目具体部署方式见该文档即可.
+
+另一个文档[对比分析](https://github.com/xiaocainiao633/Genie1.0--/blob/main/%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.md)记录了此项目与原项目的对比，二者实际上属于互补关系，此项目更偏向功能化。
 
 ### 项目介绍：
 
