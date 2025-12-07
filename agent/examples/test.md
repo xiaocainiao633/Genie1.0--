@@ -6,7 +6,7 @@
 
 与大模型对话：
 
-![alt text](<屏幕截图 2025-11-19 164540.png>)
+<img width="899" height="759" alt="image" src="https://github.com/user-attachments/assets/4959d4c2-98f5-4330-b15a-8bd924736554" />
 
 ![alt text](<屏幕截图 2025-11-19 164627.png>)
 
@@ -139,3 +139,4 @@ func (c *AutoClient) PPocr(ppocrData map[string]string) {
 ```
 
 ```
+
