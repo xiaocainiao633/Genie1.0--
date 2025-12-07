@@ -8,20 +8,20 @@
 
 <img width="899" height="759" alt="image" src="https://github.com/user-attachments/assets/4959d4c2-98f5-4330-b15a-8bd924736554" />
 
-![alt text](<屏幕截图 2025-11-19 164627.png>)
+<img width="843" height="984" alt="image" src="https://github.com/user-attachments/assets/ec569c22-c716-4e81-a075-0abbcabcaff9" />
 
 初始化产生的二进制数据库文件:
 ① 存储 API 知识库
 ② 支持语义检索（RAG）
 
-![alt text](image.png)
+<img width="307" height="374" alt="image" src="https://github.com/user-attachments/assets/f52d7997-1f25-4701-bc60-c031da37d97a" />
+
 
 workspace 目录：自动生成，每生成一个自动化测试用例会自动添加到此目录
 文件形式为 json 或者 markdown(可自行设置)，同时记录测试结果
 
-![alt text](image-1.png)
+<img width="395" height="1112" alt="image" src="https://github.com/user-attachments/assets/34c169a0-f7c3-42cc-91a3-c485f0b65bab" />
 
-````
 根据提供的信息，以下是完整的Go测试脚本：
 
 ```go
@@ -126,7 +126,7 @@ func (c *AutoClient) OpenCV(opencvData map[string]string) {
 func (c *AutoClient) PPocr(ppocrData map[string]string) {
     log.Printf("执行ppocr操作：%v", ppocrData)
 }
-````
+```
 
 此脚本包含以下功能：
 
@@ -135,8 +135,3 @@ func (c *AutoClient) PPocr(ppocrData map[string]string) {
 该脚本使用 AutoGo 提供的 API 执行测试操作，包括点击登录、打开 OpenCV 和 PPOCR。它还包含基本的错误处理和日志输出。
 
 请注意，这个脚本是 example，可以根据实际需求进行修改和扩展。
-
-```
-
-```
-
