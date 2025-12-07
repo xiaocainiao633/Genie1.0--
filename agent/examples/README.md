@@ -6,7 +6,7 @@
 
 与大模型对话：
 
-<img width="899" height="759" alt="image" src="https://github.com/user-attachments/assets/4959d4c2-98f5-4330-b15a-8bd924736554" />
+<img width="843" height="984" alt="image" src="https://github.com/user-attachments/assets/22ae4d49-23d1-4148-9a6b-2e37634a1cc2" />
 
 <img width="843" height="984" alt="image" src="https://github.com/user-attachments/assets/ec569c22-c716-4e81-a075-0abbcabcaff9" />
 
@@ -135,3 +135,4 @@ func (c *AutoClient) PPocr(ppocrData map[string]string) {
 该脚本使用 AutoGo 提供的 API 执行测试操作，包括点击登录、打开 OpenCV 和 PPOCR。它还包含基本的错误处理和日志输出。
 
 请注意，这个脚本是 example，可以根据实际需求进行修改和扩展。
+
